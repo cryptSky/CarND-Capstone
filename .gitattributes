@@ -1,0 +1,4 @@
+ros/src/tl_detector/light_classification/train_model/graph_sim.pb filter=lfs diff=lfs merge=lfs -text
+ros/src/tl_detector/light_classification/train_model/graph_real.pb filter=lfs diff=lfs merge=lfs -text
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.pb filter=lfs diff=lfs merge=lfs -text
